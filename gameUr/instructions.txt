@@ -1,0 +1,22 @@
+Bowl: 
+     Each player starts with five pieces in their bowl. These are pieces yet to be played. When a piece is taken by the opponent it goes back to the bowl. 
+
+Dice: 
+     There are four dice, and they can either land white dot up, or black up. Each of the dice have an equal chance of letting the player move as they are to not. The maximum roll is four dots up, and the minimum is zero. At a zero the player makes no move and cannot place pieces, but also does not need to flip a piece.
+
+Placing Pieces: 
+     After rolling, if their start location has an open spot and if they did not roll a zero, they may chose not to move but rather to place a piece. The piece is placed on the open start location. Pieces are always placed dots up. Pieces can only be placed on starting locations. If the opposing player has a piece on the start location then that piece is taken. 
+
+     If the player has no more pieces in their bowl then they cannot place a piece. If they roll zero they cannot place a piece. If they roll 
+
+Taking Opponent Pieces: 
+
+     If a player ends their turn in the same square as an opponent’s piece the opponent’s piece is returned to its owner’s bowl. 
+
+Winning: 
+     The first player to get all five pieces off the board wins. Points are gained when players end their turn at the end tile. 
+
+Movement: 
+     On their turn the player rolls the dice. They then choose a piece with dots up to move or they place a new piece on the board. After choosing a piece that piece moves forward however many dots point up on the dice. When the piece ends its turn it is flipped dots down. Once all pieces are dots down they are all flipped dots up. 
+
+     This piece cannot end on an opponent in a safe spot. This piece cannot end on a tile occupied by a piece of the same color. This piece cannot end off of the board. If the piece moves to its end location then it is taken off of the board and that player earns a point. If there are no moves that any pieces can make, and the player cannot place a piece then they lose their turn. Players must move or place a piece if they can. 
